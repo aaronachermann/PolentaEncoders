@@ -1,0 +1,40 @@
+# --- Python envs ---
+env/
+venv/
+.venv/
+
+# --- Python cache / build ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+build/
+dist/
+*.egg-info/
+.eggs/
+.python-version
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- Secrets / local env ---
+.env
+.env.*
+*.local
+*.log
+
+# --- Claude / MCP local config ---
+.mcp.json
+.claude/
+.cursor/
+.agents/
+
+# --- Optional local AI kit cache/config ---
+.ai-dev-kit/
