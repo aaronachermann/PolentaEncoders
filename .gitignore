@@ -38,3 +38,4 @@ Thumbs.db
 
 # --- Optional local AI kit cache/config ---
 .ai-dev-kit/
+.github/
